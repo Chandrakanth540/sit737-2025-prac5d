@@ -81,8 +81,8 @@ docker run -d -p 3000:3000 _______________(e.g., 'australia-southeast2-docker.pk
 ### 🔧 Stop and Remove the Container
 ```bash
 docker ps           # List running containers
-docker stop <id>    # Stop the container
-docker rm <id>      # Remove the container
+docker stop <id> (e.g., 3de0ad9ade4d155423d0ee0ee2409af535949ed8fae0d08e07900ba27e84ecd4')    # Stop the container
+docker rm <id> (e.g., 3de0ad9ade4d155423d0ee0ee2409af535949ed8fae0d08e07900ba27e84ecd4')      # Remove the container
 ```
 
 ---
